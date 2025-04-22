@@ -1,4 +1,4 @@
-I study computational neuroscience and compose music. That's it for now!
+I do computational neuroscience and compose music. That's it for now!
 
 <!---
 kuffmode/kuffmode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
